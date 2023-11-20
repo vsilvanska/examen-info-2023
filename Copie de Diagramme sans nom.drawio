@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T10:41:46.112Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="h_u1_em9ahBFIPHL_wL4" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T10:44:25.719Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3oyGei3N0w6i6p9tNuZJ" version="22.1.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2023" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -83,7 +83,7 @@
         <mxCell id="5RMD4BezjyQq2ldkv20B-1" value="Rôles" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="550" y="510" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5RMD4BezjyQq2ldkv20B-2" value="+nom de rôle&lt;br&gt;+Attribute2&lt;br&gt;+Attribute3" style="align=left;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;gradientColor=#ffd966;" parent="5RMD4BezjyQq2ldkv20B-1" vertex="1">
+        <mxCell id="5RMD4BezjyQq2ldkv20B-2" value="+nom de rôle&lt;br&gt;+les droits" style="align=left;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;gradientColor=#ffd966;" parent="5RMD4BezjyQq2ldkv20B-1" vertex="1">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5RMD4BezjyQq2ldkv20B-3" value="Groupes" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
