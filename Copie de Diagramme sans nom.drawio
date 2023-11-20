@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T10:30:03.793Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="fMfM8hzi_1uQXtbjeS4c" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T10:31:19.567Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="D9fDTniE-DoW6i2GX3Cf" version="22.1.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2023" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -95,7 +95,7 @@
         <mxCell id="5RMD4BezjyQq2ldkv20B-5" value="Messages" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-45" y="275" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5RMD4BezjyQq2ldkv20B-6" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;gradientColor=#ffd966;" parent="5RMD4BezjyQq2ldkv20B-5" vertex="1">
+        <mxCell id="5RMD4BezjyQq2ldkv20B-6" value="+texte de message&lt;br&gt;+date&lt;br&gt;+qui a envoyé" style="align=left;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;gradientColor=#ffd966;" parent="5RMD4BezjyQq2ldkv20B-5" vertex="1">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5RMD4BezjyQq2ldkv20B-7" value="Messages de groupe" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
