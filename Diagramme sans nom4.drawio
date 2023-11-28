@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T14:20:37.162Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4820Fo7brzfHZ3BVgUqA" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T14:24:04.435Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zdq9_2pNLDzAETKyusSH" version="22.1.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="880" dy="1303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -13,16 +13,10 @@
         <mxCell id="jCPew9xWDgTRCIevKKTK-3" value="ID&lt;br&gt;NOM&lt;br&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="jCPew9xWDgTRCIevKKTK-2">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jCPew9xWDgTRCIevKKTK-4" value="SON PUBLICATION" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="130" width="160" height="120" as="geometry" />
+        <mxCell id="jCPew9xWDgTRCIevKKTK-4" value="PUBLICATION" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jCPew9xWDgTRCIevKKTK-5" value="Mot clée&lt;br&gt;texte&lt;br&gt;+Attribute3" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="jCPew9xWDgTRCIevKKTK-4">
-          <mxGeometry y="50" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="jCPew9xWDgTRCIevKKTK-6" value="TOUS LES PUBLICATIONS" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="120" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="jCPew9xWDgTRCIevKKTK-7" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="jCPew9xWDgTRCIevKKTK-6">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jCPew9xWDgTRCIevKKTK-8" value="PROFILE" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -39,8 +33,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCPew9xWDgTRCIevKKTK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jCPew9xWDgTRCIevKKTK-10" target="jCPew9xWDgTRCIevKKTK-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jCPew9xWDgTRCIevKKTK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jCPew9xWDgTRCIevKKTK-18" target="jCPew9xWDgTRCIevKKTK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="180" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jCPew9xWDgTRCIevKKTK-10" value="INTERAGER" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="-30" width="150" height="120" as="geometry" />
@@ -49,7 +45,10 @@
           <mxGeometry x="400" y="-42" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jCPew9xWDgTRCIevKKTK-17" value="0,N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="78" width="40" height="30" as="geometry" />
+          <mxGeometry x="380" y="190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jCPew9xWDgTRCIevKKTK-18" value="Post&lt;br&gt;repost&lt;br&gt;like&lt;br&gt;fav" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="295" y="90" width="100" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
