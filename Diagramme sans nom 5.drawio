@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T11:59:52.458Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="e1cogAL2v0-ke7Y1KJhe" version="22.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-11T12:01:02.039Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-njViYbIuxEqzGHNZPWD" version="22.1.7" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1173" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -389,7 +389,7 @@
         <mxCell id="Vs4MO0yzSmGj7dVC-3Ge-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#bac8d3;strokeColor=#23445d;" edge="1" parent="1" source="Vs4MO0yzSmGj7dVC-3Ge-29" target="Vs4MO0yzSmGj7dVC-3Ge-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vs4MO0yzSmGj7dVC-3Ge-29" value="COMMENTAIRE" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="Vs4MO0yzSmGj7dVC-3Ge-29" value="COMMENT" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1060" y="560" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Vs4MO0yzSmGj7dVC-3Ge-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=#bac8d3;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#23445d;" vertex="1" parent="Vs4MO0yzSmGj7dVC-3Ge-29">
@@ -811,7 +811,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vs4MO0yzSmGj7dVC-3Ge-118" value="COMMENTER" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="Vs4MO0yzSmGj7dVC-3Ge-118" value="TO_COMMENT" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1480" y="410" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Vs4MO0yzSmGj7dVC-3Ge-119" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=#bac8d3;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#23445d;" vertex="1" parent="Vs4MO0yzSmGj7dVC-3Ge-118">
